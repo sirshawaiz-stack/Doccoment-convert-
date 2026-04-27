@@ -1,0 +1,6 @@
+{
+  "name": "DocuShift",
+  "description": "Convert documents between Excel, PDF, Image, and Word formats using standard libraries and AI-powered extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
